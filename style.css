@@ -1,0 +1,68 @@
+body {
+	background-color:AliceBlue;
+}
+h1 {
+	font-size: 40px;
+	padding:30px;
+	text-decoration:underline;
+	text-align:left;
+
+}
+
+h2{
+	text-decoration:underline;
+}
+
+h3{
+	text-decoration:underline;
+	font-size:26px;
+}
+
+p {
+	font-size:26px;
+}
+
+td{
+	font-size:30px;
+	border: 2px solid grey;
+}
+
+a{
+	color:black;
+}
+
+img{
+	width:300px;
+	height:200px;
+	margin-left:20px;
+}
+
+#smallTable{
+		width: 200px;
+		border: 1px solid grey;
+		background-color:#E8E8E8;
+		margin-left:50px;
+	}
+	
+#bigTable{
+	background-color:white;
+	border:none;
+	
+}
+
+#bigTD{
+	width:50%;
+	border:none;
+}
+
+.hobbyP, .tripsP, .citationsP, .firstsP{
+	width:79%;
+}
+
+p{
+	color:#000080;
+}
+
+/*https://jigsaw.w3.org/css-validator/validator*/
+
+
